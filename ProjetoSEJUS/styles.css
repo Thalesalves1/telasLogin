@@ -1,0 +1,32 @@
+/*Autores:
+Thales Alves
+Alan Barros
+Halef */
+h1{
+	font-size: 50px;
+
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+input:hover#butao{
+	background-color: aqua;
+}
+
+#inputs{
+	width: 200px;
+	height: 23px;
+	border-bottom: thick solid #00e6e6;
+}
+
+#butao{
+	width: 120px;
+	background-color: #00e6e6;
+	height: 30px;
+	border-radius: 20px;
+	font-size: 17px;
+	border: none;
+}
